@@ -1,0 +1,25 @@
+leftnav:
+- identifier: 193e23e5-2fbf-0ee3-50e2-19982e6155c0
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 404a7a8f-a7e7-3eff-66fe-a6c8f28ab5e6
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: 4be4ca3c-41c5-f916-8b17-3e13e0a9d1c8
+  name: Assignments and In-class Activities
+  pageRef: /pages/assignments-and-in-class-activities
+  weight: 30
+- identifier: 05c73fc8-71be-ef2f-d192-a9d0a56e09c7
+  name: Essay
+  pageRef: /pages/essay
+  weight: 40
+- identifier: b28f570a-6bf4-9f59-eeab-430a6095d031
+  name: Review Test Format
+  pageRef: /pages/review-test-format
+  weight: 50
+- identifier: 4645052e-4abf-10b0-354d-f9cfca50347a
+  name: Related Resources
+  pageRef: /pages/related-resources
+  weight: 60
